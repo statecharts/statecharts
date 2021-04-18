@@ -1,2 +1,3 @@
-# statecharts
-Discussions
+# Statecharts
+
+Discussions around statecharts
