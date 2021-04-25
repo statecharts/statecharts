@@ -1,3 +1,6 @@
-# Statecharts
+# Statecharts community
 
-[Discussions around statecharts](https://github.com/statecharts/statecharts/discussions)
+[Statecharts Q&A](https://github.com/statecharts/statecharts/discussions)
+
+[Chat about statecharts](https://gitter.im/statecharts/statecharts)
+
